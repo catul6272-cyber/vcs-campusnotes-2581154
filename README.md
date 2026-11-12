@@ -22,3 +22,9 @@ CampusNotes is a repository for organizing and maintaining academic notes.
 
 This project helps students manage their academic resources.
 
+
+
+\## Support
+
+For corrections or suggestions, please update the relevant documentation.
+

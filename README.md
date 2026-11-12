@@ -28,3 +28,9 @@ This project helps students manage their academic resources.
 
 For corrections or suggestions, please update the relevant documentation.
 
+\## Documentation
+
+This section provides information about the project structure and usage.
+
+
+

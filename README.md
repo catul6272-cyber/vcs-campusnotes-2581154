@@ -34,3 +34,11 @@ This section provides information about the project structure and usage.
 
 
 
+\## Features
+
+\- Organized study notes
+
+\- Easy access to learning material
+
+\- Simple repository structure
+
